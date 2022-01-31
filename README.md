@@ -1,4 +1,2 @@
 # KnowYourHorsePowerProject
-horse power beirut ai
-
-### I LOVE THE AI OF BEIRUT
+A system built to replace the mechanical dynamometer. It determines the performance and horsepower of cars based on variant parameters.
